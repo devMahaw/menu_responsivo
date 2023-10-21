@@ -1,0 +1,1 @@
+function menuShow(){var e=document.querySelector(".mobile-menu");e.classList.contains("open")?(e.classList.remove("open"),document.querySelector(".icon").src="build/images/menu_white_36dp.svg"):(e.classList.add("open"),document.querySelector(".icon").src="build/images/close_white_36dp.svg")}
